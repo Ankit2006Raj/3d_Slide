@@ -11,6 +11,9 @@ A stunning 3D carousel slider built with pure CSS, featuring smooth animations a
 - **Lightweight** - Minimal dependencies, fast loading times
 
 ## 🚀 Demo
+<img width="1266" height="635" alt="image" src="https://github.com/user-attachments/assets/7a50353f-c6b5-4d18-8db2-78cc47e0d447" />
+<img width="1216" height="638" alt="image" src="https://github.com/user-attachments/assets/d984cff4-317b-4023-ada1-bd9dc6c460e5" />
+
 
 The slider features a 3D rotating carousel that automatically cycles through images with a perspective effect, creating an immersive visual experience.
 
